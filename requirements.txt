@@ -1,0 +1,4 @@
+easyocr==1.7.2
+googletrans==4.0.0rc1
+PyQt6==6.7.1
+PyQt6_sip==13.8.0
